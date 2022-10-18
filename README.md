@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# We are using the PokéApi for this project: https://pokeapi.co
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
